@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7101,
+          139.8107
+        ]
+      },
+      "properties": {
+        "name": "スカイツリー"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6586,
+          139.7454
+        ]
+      },
+      "properties": {
+        "name": "東京タワー"
+      }
+    },
+  ]
+}
